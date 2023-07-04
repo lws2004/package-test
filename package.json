@@ -12,5 +12,8 @@
     "package-test"
   ],
   "author": "lanws",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@lws2004:registry": "https://npm.pkg.github.com"
+  }
 }
