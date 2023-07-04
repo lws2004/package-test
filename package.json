@@ -1,0 +1,16 @@
+{
+  "name": "@lws2004/package-test",
+  "version": "1.0.0",
+  "description": "github 测试包",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "github",
+    "test",
+    "package-test"
+  ],
+  "author": "lanws",
+  "license": "ISC"
+}
